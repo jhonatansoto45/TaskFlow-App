@@ -1,4 +1,4 @@
-package com.example.taskflowapp.ui
+package com.example.taskflowapp.ui.screens
 
 // Librerias para navegacion entre pantallas incluidas en el build.gradle.kts (:app) y libs.versions
 import androidx.compose.runtime.Composable
